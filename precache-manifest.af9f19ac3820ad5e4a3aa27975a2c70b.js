@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4a4c9fc90557d64e0ca0fae993ab2fc",
+    "revision": "393d576b44f48dafc8a635da53bb5dea",
     "url": "/asoAdmin/index.html"
   },
   {
